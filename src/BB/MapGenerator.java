@@ -11,7 +11,7 @@ public class MapGenerator {
 	public int brickWidth;
 	public int brickHeight;
 	Toolkit t = Toolkit.getDefaultToolkit();
-	Image img = t.getImage("C:\\Eclipse WorkPlace\\Brick_Breaker\\src\\Media_Image\\Picture1.png");
+	Image img = t.getImage("src\\Media_Image\\Picture1.png");
 	
 	
 	public MapGenerator(int row,int col) {

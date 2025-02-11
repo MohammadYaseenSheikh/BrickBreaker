@@ -35,7 +35,7 @@ public class GamePlay extends JPanel implements ActionListener, KeyListener{
 	private boolean flag = false;
 	
 	Toolkit t = Toolkit.getDefaultToolkit();
-	Image img = t.getImage("C:\\Eclipse WorkPlace\\Brick_Breaker\\src\\Media_Image\\Background.jpg");
+	Image img = t.getImage("src\\Media_Image\\Background.jpg");
 	
 	Image img2 = t.getImage("C:\\Eclipse WorkPlace\\Brick_Breaker\\src\\Media_Image\\Ball.png");
 	
