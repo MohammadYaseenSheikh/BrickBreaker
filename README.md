@@ -75,9 +75,10 @@ Want to improve the game? Feel free to fork the repo, make changes, and submit a
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
+## 👨‍💻 Author
 
-👨‍💻 Author
-👤 Mohammad Yaseen Sheikh
-📧 Email
-🔗 LinkedIn
+👤 **Mohammad Yaseen Sheikh**  
+📧 [Email](mailto:official.yaseen.sheikh@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-sheikh-55484915a/) 
+
 Happy Coding! 🚀
